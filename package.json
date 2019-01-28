@@ -1,0 +1,29 @@
+{
+  "name": "d3fetchmodule",
+  "version": "1.0.0",
+  "description": "Contains functions that extends/consolidates some of the functions found under d3 library's d3-fetch ",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/d3FetchModule.git"
+  },
+  "keywords": [
+    "d3",
+    "chart",
+    "fetch"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/d3FetchModule/issues"
+  },
+  "homepage": "https://github.com/deandevl/d3FetchModule#readme",
+  "main": "d3FetchModule.js",
+  "module": "index.js",
+  "dependencies": {
+    "d3-fetch": "^1.1.2",
+    "d3-time-format": "^2.1.3"
+  }
+}
